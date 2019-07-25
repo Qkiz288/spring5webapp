@@ -1,0 +1,36 @@
+# comment
+
+name: John
+
+names:
+  - John
+  - Ringo
+  - Kamil
+
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: Random Publisher
+
+truth: yes
+
+another_truth: True
+
+more_truth: true
+
+false: no
+
+string_val: "This is it's quote"
+
+colon_string: "colon: string"
+
+include_new_lines: |
+  asd asd
+  asd asd
+  asd asd
+
+ignore_new_lines: >
+  this is
+  just one
+  long string
